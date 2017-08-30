@@ -17,7 +17,7 @@ $ npm install
 2. Setup Selenium server (run daemon, so you should call at once):
 
 ```bash
-$ npm run selenium:setup
+$ npm run selenium:start
 ```
 
 3. (In another window) Use Nightwatch.js to launch integration tests:

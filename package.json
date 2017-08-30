@@ -10,7 +10,7 @@
         "url": "https://piecioshka.pl/"
     },
     "scripts": {
-        "selenium:setup": "selenium-standalone install && selenium-standalone start",
+        "selenium:start": "selenium-standalone install && selenium-standalone start",
         "test:integration": "nightwatch"
     },
     "devDependencies": {
