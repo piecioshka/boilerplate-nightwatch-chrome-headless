@@ -5,7 +5,7 @@ const CHROME_CANARY = "/Applications/Google Chrome Canary.app/Contents/MacOS/Goo
 
 module.exports = {
     "src_folders": [
-        "test/integration/"
+        "test/e2e/"
     ],
 
     "output_folder": "reports/",

@@ -13,7 +13,7 @@
         "clear": "rm -rf reports/ screenshots/",
         "clear:all": "rm -rf node_modules/ && npm run clear",
         "selenium:start": "selenium-standalone install && selenium-standalone start",
-        "test:integration": "nightwatch --config nightwatch.conf.js"
+        "test:e2e": "nightwatch --config nightwatch.conf.js"
     },
     "devDependencies": {
         "nightwatch": "^0.9.16",
