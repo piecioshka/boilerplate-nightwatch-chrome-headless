@@ -2,7 +2,7 @@
     "private": true,
     "name": "test-nightwatch-chrome-headless",
     "description": "Test project to setup Nightwatch.js (Selenium) + Chrome Headless",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
