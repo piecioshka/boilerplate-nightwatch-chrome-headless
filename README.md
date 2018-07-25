@@ -1,6 +1,6 @@
 # test-nightwatch-chrome-headless
 
-> :ledger: Test project to setup Nightwatch.js (Selenium) + Chrome Headless
+:ledger: Test project to setup Nightwatch.js (Selenium) + Chrome Headless
 
 ## Article
 
