@@ -4,4 +4,5 @@ node_js:
   - "9"
   - "8"
   - "7"
+before_script: npm run selenium:start
 script: xvfb-run npm test
