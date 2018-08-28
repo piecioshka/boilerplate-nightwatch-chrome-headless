@@ -12,8 +12,9 @@
     "scripts": {
         "clear": "rm -rf reports/ screenshots/",
         "clear:all": "rm -rf node_modules/ && npm run clear",
-        "selenium:start": "selenium-standalone install && selenium-standalone start",
-        "test:e2e": "nightwatch --config nightwatch.conf.js"
+        "test": "npm run test:e2e",
+        "test:e2e": "nightwatch --config nightwatch.conf.js",
+        "selenium:start": "selenium-standalone install && selenium-standalone start"
     },
     "devDependencies": {
         "nightwatch": "^1.0.8",
