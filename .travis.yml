@@ -6,6 +6,8 @@ node_js:
   - "9"
   - "8"
 before_script:
-  - npm run selenium:start &
+  - npm run selenium:start
+  - sleep 3
 script:
   - xvfb-run npm test
+  - sleep 3
