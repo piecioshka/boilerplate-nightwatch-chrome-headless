@@ -17,8 +17,8 @@
         "selenium:start": "selenium-standalone install && selenium-standalone start"
     },
     "devDependencies": {
-        "nightwatch": "^1.0.8",
-        "selenium-standalone": "^6.15.1"
+        "nightwatch": "^1.0.19",
+        "selenium-standalone": "^6.16.0"
     },
     "repository": {
         "type": "git",
