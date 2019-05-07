@@ -17,6 +17,7 @@
         "selenium:start": "selenium-standalone install && selenium-standalone start"
     },
     "devDependencies": {
+        "chromedriver": "^74.0.0",
         "nightwatch": "^1.0.19",
         "selenium-standalone": "^6.16.0"
     },
