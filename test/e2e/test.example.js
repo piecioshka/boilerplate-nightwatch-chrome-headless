@@ -14,7 +14,7 @@ module.exports = {
             .waitForElementVisible('body', PAGE_LOAD_DELAY)
             .elements('css selector', '#menu li', (result) => {
                 const menuSize = result.value.length;
-                browser.assert.equal(menuSize, 9);
+                browser.assert.equal(menuSize, 10);
             })
             .end();
     },

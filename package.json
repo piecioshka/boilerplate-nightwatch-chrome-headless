@@ -10,7 +10,7 @@
         "url": "https://piecioshka.pl/"
     },
     "scripts": {
-        "clear": "rm -rf reports/ screenshots/",
+        "clear": "rm -rf reports/ screenshots/ *.log",
         "clear:all": "rm -rf node_modules/ && npm run clear",
         "test": "npm run test:e2e",
         "test:e2e": "nightwatch --config nightwatch.conf.js",

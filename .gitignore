@@ -4,4 +4,4 @@ npm-debug.log
 reports/
 screenshots/
 
-chromedriver.log
+*.log

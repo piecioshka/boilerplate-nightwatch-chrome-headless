@@ -1,13 +1,15 @@
 language: node_js
+
+os:
+  - linux
+  - osx
+
 node_js:
   - "12"
   - "11"
   - "10"
   - "9"
   - "8"
-before_script:
-  - npm run selenium:start &
-  - sleep 10
-script:
-  - xvfb-run npm test
-  - sleep 3
+
+addons:
+  chrome: stable
