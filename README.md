@@ -1,6 +1,5 @@
 # test-nightwatch-chrome-headless
 
-[![dependencies](https://david-dm.org/piecioshka/test-nightwatch-chrome-headless.svg)](https://github.com/piecioshka/test-nightwatch-chrome-headless)
 [![travis](https://img.shields.io/travis/piecioshka/test-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/test-nightwatch-chrome-headless)
 
 :ledger: Testing Nightwatch.js + Chrome Headless on Travis
