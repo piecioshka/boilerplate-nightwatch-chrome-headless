@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-nightwatch-chrome-headless",
+    "name": "boilerplate-nightwatch-chrome-headless",
     "description": "Testing Nightwatch.js + Chrome Headless on Travis",
     "version": "0.1.1",
     "license": "MIT",
@@ -20,6 +20,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/piecioshka/test-nightwatch-chrome-headless.git"
+        "url": "https://github.com/piecioshka/boilerplate-nightwatch-chrome-headless.git"
     }
 }

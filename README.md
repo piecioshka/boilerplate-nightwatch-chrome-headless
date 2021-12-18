@@ -1,6 +1,6 @@
-# test-nightwatch-chrome-headless
+# boilerplate-nightwatch-chrome-headless
 
-[![travis](https://img.shields.io/travis/piecioshka/test-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/test-nightwatch-chrome-headless)
+[![travis](https://img.shields.io/travis/piecioshka/boilerplate-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/boilerplate-nightwatch-chrome-headless)
 
 :ledger: Testing Nightwatch.js + Chrome Headless on Travis
 
@@ -18,12 +18,12 @@ npm run test:e2e
 
 ## Related
 
-* [test-codeceptjs](https://github.com/piecioshka/test-codeceptjs)
-* [test-cucumberjs](https://github.com/piecioshka/test-cucumberjs)
-* [test-cypress](https://github.com/piecioshka/test-cypress)
-* [test-nightwatch-chrome-headless](https://github.com/piecioshka/test-nightwatch-chrome-headless)
-* [test-puppeteer-jasmine](https://github.com/piecioshka/test-puppeteer-jasmine)
-* [test-testcafe](https://github.com/piecioshka/test-testcafe)
+* [boilerplate-codeceptjs](https://github.com/piecioshka/boilerplate-codeceptjs)
+* [boilerplate-cucumberjs](https://github.com/piecioshka/boilerplate-cucumberjs)
+* [boilerplate-cypress](https://github.com/piecioshka/boilerplate-cypress)
+* [boilerplate-nightwatch-chrome-headless](https://github.com/piecioshka/boilerplate-nightwatch-chrome-headless)
+* [boilerplate-puppeteer-jasmine](https://github.com/piecioshka/boilerplate-puppeteer-jasmine)
+* [boilerplate-testcafe](https://github.com/piecioshka/boilerplate-testcafe)
 
 ## License
 
