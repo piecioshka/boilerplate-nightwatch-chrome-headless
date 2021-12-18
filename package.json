@@ -1,25 +1,23 @@
 {
-    "private": true,
-    "name": "boilerplate-nightwatch-chrome-headless",
-    "description": "Testing Nightwatch.js + Chrome Headless on Travis",
-    "version": "0.1.1",
-    "license": "MIT",
-    "author": {
-        "name": "Piotr Kowalski",
-        "email": "piecioshka@gmail.com",
-        "url": "https://piecioshka.pl/"
-    },
-    "scripts": {
-        "clear": "rm -rf reports/ screenshots/ *.log",
-        "clear:all": "rm -rf node_modules/ && npm run clear",
-        "test": "nightwatch --config nightwatch.conf.js"
-    },
-    "devDependencies": {
-        "chromedriver": "^74.0.0",
-        "nightwatch": "^1.0.19"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/piecioshka/boilerplate-nightwatch-chrome-headless.git"
-    }
+  "private": true,
+  "name": "boilerplate-nightwatch-chrome-headless",
+  "description": "",
+  "version": "0.1.1",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
+  "scripts": {
+    "test": "nightwatch --config nightwatch.conf.js"
+  },
+  "devDependencies": {
+    "chromedriver": "^96.0.0",
+    "nightwatch": "^1.7.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piecioshka/boilerplate-nightwatch-chrome-headless.git"
+  }
 }

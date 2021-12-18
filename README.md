@@ -2,7 +2,7 @@
 
 [![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/boilerplate-nightwatch-chrome-headless)
 
-:ledger: Testing Nightwatch.js + Chrome Headless on Travis
+🍴 Starter with Nightwatch.js + Chrome Headless on Travis
 
 ## Article
 
@@ -27,7 +27,7 @@ npm run test:e2e
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2017-2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2017-2021
 
 [blog-post]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html
 [blog-post-2]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html

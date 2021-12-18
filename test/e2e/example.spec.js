@@ -5,7 +5,7 @@ module.exports = {
     'Is header contains correct text?': (browser) => {
         browser.url(TARGET_PAGE_URL)
             .waitForElementVisible('body', PAGE_LOAD_DELAY)
-            .assert.containsText('h1', 'Piotr Kowalski')
+            .assert.containsText('h1', 'Blog')
             .end();
     },
 
