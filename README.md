@@ -2,7 +2,7 @@
 
 [![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/boilerplate-nightwatch-chrome-headless)
 
-🍴 Starter with Nightwatch.js + Chrome Headless on Travis
+🍴 Starter with Nightwatch.js + Chrome Headless
 
 ## Article
 
