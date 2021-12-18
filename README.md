@@ -31,7 +31,7 @@ npm run test:e2e
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2017-2021
+[The MIT License](https://piecioshka.mit-license.org) @ 2017-2021
 
 [blog-post]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html
 [blog-post-2]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html
