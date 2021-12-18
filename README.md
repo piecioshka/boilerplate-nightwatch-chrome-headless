@@ -4,6 +4,10 @@
 
 🍴 Starter with Nightwatch.js + Chrome Headless
 
+## Features
+
+* :white_check_mark: Nightwatch.js `v1.7.13`
+
 ## Article
 
 Explanation, how I've build this project is on [my blog][blog-post]
