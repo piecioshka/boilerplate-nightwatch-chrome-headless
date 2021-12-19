@@ -8,5 +8,6 @@ coverage.lcov
 
 reports/
 screenshots/
-
 *.log
+
+!.vscode/
