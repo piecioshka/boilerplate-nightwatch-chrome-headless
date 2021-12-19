@@ -1,5 +1,5 @@
 module.exports = {
-    "src_folders": ["test/e2e/"],
+    "src_folders": ["e2e/"],
 
     "output_folder": "reports/",
 

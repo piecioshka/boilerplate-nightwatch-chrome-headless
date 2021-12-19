@@ -10,7 +10,7 @@
     "url": "https://piecioshka.pl/"
   },
   "scripts": {
-    "test": "nightwatch --config nightwatch.conf.js"
+    "e2e": "nightwatch --config nightwatch.conf.js"
   },
   "devDependencies": {
     "chromedriver": "^96.0.0",

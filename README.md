@@ -13,11 +13,10 @@
 Explanation, how I've build this project is on [my blog][blog-post]
 and [the second one][blog-post-2].
 
-## Run tests
+## End-to-end tests
 
 ```bash
-npm install
-npm run test:e2e
+npm run e2e
 ```
 
 ## Related
