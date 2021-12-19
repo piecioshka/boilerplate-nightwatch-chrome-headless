@@ -1,6 +1,6 @@
 # boilerplate-nightwatch-chrome-headless
 
-[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-nightwatch-chrome-headless.svg)](https://travis-ci.org/piecioshka/boilerplate-nightwatch-chrome-headless)
+[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-nightwatch-chrome-headless.svg)](https://app.travis-ci.com/github/piecioshka/boilerplate-nightwatch-chrome-headless)
 
 🍴 Starter with Nightwatch.js + Chrome Headless
 
