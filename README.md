@@ -4,7 +4,7 @@
 
 ## Features
 
-* :white_check_mark: Nightwatch.js `v1.7.13`
+- ✅ Nightwatch.js `v1.7.13`
 
 ## Article
 
@@ -28,7 +28,7 @@ npm run e2e
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2017-2021
+[The MIT License](https://piecioshka.mit-license.org) @ 2017
 
 [blog-post]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html
 [blog-post-2]: https://piecioshka.pl/blog/2017/08/09/jak-napisac-testy-end-to-end-z-wykorzystaniem-nightwatch-oraz-chrome-headless.html
